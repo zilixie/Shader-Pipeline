@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiezili/Desktop/computer-graphics-shader/main.cpp
+gl.h
+/Users/xiezili/Desktop/computer-graphics-shader/gl.h
+GLFW/glfw3.h
+-
+read_json.h
+/Users/xiezili/Desktop/computer-graphics-shader/read_json.h
+icosahedron.h
+/Users/xiezili/Desktop/computer-graphics-shader/icosahedron.h
+mesh_to_vao.h
+/Users/xiezili/Desktop/computer-graphics-shader/mesh_to_vao.h
+print_opengl_info.h
+/Users/xiezili/Desktop/computer-graphics-shader/print_opengl_info.h
+get_seconds.h
+/Users/xiezili/Desktop/computer-graphics-shader/get_seconds.h
+report_gl_error.h
+/Users/xiezili/Desktop/computer-graphics-shader/report_gl_error.h
+create_shader_program_from_files.h
+/Users/xiezili/Desktop/computer-graphics-shader/create_shader_program_from_files.h
+last_modification_time.h
+/Users/xiezili/Desktop/computer-graphics-shader/last_modification_time.h
+Eigen/Core
+-
+Eigen/Geometry
+-
+thread
+-
+iostream
+-
+sstream
+-
+fstream
+-
+cstdlib
+-
+vector
+-
+
